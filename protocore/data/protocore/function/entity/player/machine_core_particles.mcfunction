@@ -1,0 +1,1 @@
+execute as @e[tag=machine_core] at @s run particle minecraft:electric_spark ~ ~0 ~ 0 0 0 0.2 1 force
